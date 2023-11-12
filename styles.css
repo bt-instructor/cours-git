@@ -12,3 +12,8 @@ th, td {
 th, td {
   font-size: 20px;
 }
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+}
